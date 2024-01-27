@@ -29,7 +29,8 @@
 [![Tamilselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamilselvanpalanivel01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Top Languages
-[![Top Langs](https://img.shields.io/github/languages/top/Tamilselvanpalanivel01/Tamilselvanpalanivel01?style=flat-square)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://img.shields.io/github/languages/top/Tamilselvanpalanivel01/Tamilselvanpalanivel01?style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
