@@ -24,6 +24,7 @@
 - [Cricket Battlefeild](https://tamilselvanpalanivel01.github.io/Cricket-battlefeild/)
 - [WhatsApp Website and WhatsApp Web](https://tamilselvanpalanivel01.github.io/whatsapp-website-and-whatsapp-web/)
 - [WhatsApp Web Clone](https://tamilselvanpalanivel01.github.io/WhatsApp-Web-Clone/)
+- [Flipcart Web clone](https://github.com/Tamilselvanpalanivel01/Flipcart-Clone/)
 
 ## 📊 GitHub Stats
 [![Tamilselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamilselvanpalanivel01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
